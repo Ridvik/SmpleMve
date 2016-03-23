@@ -8,5 +8,8 @@
     <statement name="DO">
       <block type="movement_forward" id="264"></block>
     </statement>
+    <next>
+      <block type="movement_stop" id="281"></block>
+    </next>
   </block>
 </xml>
